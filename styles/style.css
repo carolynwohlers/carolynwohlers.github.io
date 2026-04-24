@@ -14,7 +14,7 @@ body{
 }
 /* Hero Section */
 .hero-section {
-    background-color: #1D2D44;
+    background-image: url(../images/mountaingreen.webp);
     background-size: cover;
     background-position: 50%50%;
     height: 100vh;
